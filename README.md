@@ -206,8 +206,6 @@ Lo ideal es comprar un kit, pero se puede empezar solo con el microcontrolador +
    Indice evolutivo del las clases del taller + libros y webs de referencia:
    
    [GitHub - Jcspoza/26_27Prog_RobotCMMBML_Index: Indice - Taller Programacion y Robotica 2026 - 2027 en CMM Benito Martin Lozano · GitHub](https://github.com/Jcspoza/26_27Prog_RobotCMMBML_Index)
-   
-   
 
 4. El plan a partir de  la 2da o 3ra clases **se adaptara y acordará con los alumnos**, es decir el programa de clases se ira concretando y adaptando a los alumnos. Hay mucho material de años anteriores cubriendo un amplio abanico de complejidad, desde lo mas sencillo a lo mas complejo
 
