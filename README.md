@@ -1,6 +1,10 @@
-# CL0 - Presentación Taller PyR 2025 - 2026 +Demos
+# CL0 - Presentación Taller PyR 2026 - 2027 +Demos (actualizado 26_27)
 
 Indice evolutivo del las clases del taller + libros y webs de referencia:
+
+[GitHub - Jcspoza/26_27Prog_RobotCMMBML_Index: Indice - Taller Programacion y Robotica 2026 - 2027 en CMM Benito Martin Lozano · GitHub](https://github.com/Jcspoza/26_27Prog_RobotCMMBML_Index)
+
+Indice curso 25 - 26 
 
 [GitHub - Jcspoza/2526_PyR_Index: Curso Programación y Robotica 2025 2026 - CMM BML](https://github.com/Jcspoza/2526_PyR_Index)
 
@@ -33,21 +37,25 @@ Indice evolutivo del las clases del taller + libros y webs de referencia:
 
 ## Requisitos de los alumnos
 
-Sintiéndolo mucho y para evitar que todos perdamos el tiempo, diré ante de nada, que el curso requiere unos requisitos mínimos por parte de los alumnos:
+Sintiéndolo mucho y para evitar que todos perdamos el tiempo, diré antes de nada, que el curso requiere unos requisitos mínimos por parte de los alumnos:
 
 ### **<u>Necesarios</u>**
 
-#### 1- Familiaridad con los PC
+#### 1- Familiaridad con los PC con Windows
 
 Este taller requiere que tengas un manejo de un ordenador tipo PC de nivel medio, es decir debes ser capaz de:
 
-- Escribir en programas en aplicación de editor de texto ( como un word, pero mas sencillo)
+- Escribir en programas en una aplicación de editor de texto (como un word, pero mas sencillo)
 
-- Manejar ficheros del ordenador: copiar, mover , borrar, etc.
+- Manejar ficheros de ordenador con windows : copiar, mover , borrar, etc.
 
 - Navegar por la web, bajar ficheros etc.
 
 - Conectar al puerto USB cables o pendrives y manejar los ficheros y programas dentro del pen
+
+==> **No es necesario, pero si muy conveniente disponer de un ordenador propio preferentemente un portátil que puedas traer a las clases**. 
+
+==> Si no tienes un portátil, te indicaré como usar un ordenador fijo con un pendrive.
 
 #### 2- Habilidades manipulativas manuales y cognitivas mínimas
 
@@ -55,7 +63,7 @@ Sintiéndolo mucho, si tienes **dificultades motoras serias con las manos**, est
 
 Mismo caso, si tienes **deterioro cognitivo severo**.
 
-Aceptamos sin problemas 'supuestos torpes' y no me importa repetir los conceptos si tu memoria no anda fina.
+**Aceptamos sin problemas, a personas con leves problemas de memoria**:  no me importa repetir los conceptos si tu memoria no anda fina.
 
 #### 3- No tener miedo a la electricidad a bajo voltaje
 
@@ -83,7 +91,7 @@ También pueden ser necesarias algunas herramientas básicas como alicates o pel
 
 ## Presentación del profesor – 10 minutos
 
-Currículo de Voluntario tecnológico del profesor [CV](./CV_JCSP_Voluntario_202510.pdf) 
+Currículo de Voluntario tecnológico del profesor [CV](./CV_JCSP_Voluntario_202607.pdf) 
 
 ## ¿Qué es la robótica?
 
@@ -163,7 +171,7 @@ Mas razones en los siguientes videos
 
 [3 Reasons to Learn Python - AI and LLMs is One of Them, but There are MORE!](https://www.youtube.com/watch?v=EHsLuHbE_9s)
 
-En <u>Robotica</u>, hasta hace poco tiempo había que usar para programar los microcontroladores, que son el cerebro de los proyectos de robotica, lenguajes relativamente oscuros como "C" o derivadas de C ( IDE Arduino) . Afortunadamente, en 2013 el físico Australiano Damien George, desarrollo junto a otros personas **micropython** para el microcontrolador PyBoard, y rápidamente se ex- "porto" a otros microcontroladores como ESP32 o **RPI Pico, que es el que usaremos**
+En <u>Robotica</u>, hasta hace poco tiempo había que usar para programar los microcontroladores (el cerebro de los proyectos de robotica), lenguajes relativamente oscuros como "C" o derivadas de C ( IDE Arduino) . Afortunadamente, en 2013 el físico Australiano Damien George, desarrollo junto a otros personas **micropython** para el microcontrolador PyBoard, y rápidamente se ex- "porto" a otros microcontroladores como ESP32 o **RPI Pico, que es el que usaremos**
 
 **Micropython** es una implementación del lenguaje de programación Python 3, escrita en C, optimizada para poder ejecutarse en un microcontrolador. Es decir **permite programar los microcontroladores con "programas" escritos en un sub-conjunto de Python con alguna peculiaridad del microcontrolador** por lo que son aplicables todas las ventajas de Python
 
@@ -197,9 +205,11 @@ Lo ideal es comprar un kit, pero se puede empezar solo con el microcontrolador +
    
    Indice evolutivo del las clases del taller + libros y webs de referencia:
    
-   [GitHub - Jcspoza/2526_PyR_Index: Curso Programación y Robotica 2025 2026 - CMM BML](https://github.com/Jcspoza/2526_PyR_Index)
+   [GitHub - Jcspoza/26_27Prog_RobotCMMBML_Index: Indice - Taller Programacion y Robotica 2026 - 2027 en CMM Benito Martin Lozano · GitHub](https://github.com/Jcspoza/26_27Prog_RobotCMMBML_Index)
+   
+   
 
-4. El plan a + de 2 a 3 clases **se adaptara y acordará con los alumnos**, es decir el programa de clases se ira concretando y adaptando a los alumnos. Hay mucho material de años anteriores cubriendo un amplio abanico de complejidad, desde lo mas sencillo a lo mas complejo
+4. El plan a partir de  la 2da o 3ra clases **se adaptara y acordará con los alumnos**, es decir el programa de clases se ira concretando y adaptando a los alumnos. Hay mucho material de años anteriores cubriendo un amplio abanico de complejidad, desde lo mas sencillo a lo mas complejo
 
 5. Habrá clases dedicadas completa o parcialmente a resolver dudas o ver montajes hechos en casa de los alumnos, ...
 
@@ -225,7 +235,9 @@ Lo ideal es comprar un kit, pero se puede empezar solo con el microcontrolador +
 
 7. **Programación**: Los programas mas complejos serán explicados en clase y se pedirá como trabajo de 'casa', hacer algun pequeño cambio en el programa y ver los efectos.
 
-8. Se dispone de una pagina web Indice de las clases y de contenido general como libros/webs de referencia, que ira evolucionado durante el curso, enlace: [GitHub - Jcspoza/2526_PyR_Index: Curso Programación y Robotica 2025 2026 - CMM BML](https://github.com/Jcspoza/2526_PyR_Index)
+8. Se dispone de una pagina web Indice de las clases y de contenido general como libros/webs de referencia, que ira evolucionado durante el curso 
+
+9. [GitHub - Jcspoza/26_27Prog_RobotCMMBML_Index: Indice - Taller Programacion y Robotica 2026 - 2027 en CMM Benito Martin Lozano · GitHub](https://github.com/Jcspoza/26_27Prog_RobotCMMBML_Index)
 
 ### Reglas de funcionamiento
 
