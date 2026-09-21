@@ -27,7 +27,7 @@ Indice curso 25 - 26
 
 - ¿Qué vamos a necesitar (minimo)?
 
-- Funcionamiento y Dinámica de las clases
+- Clases : Contenido y plan + Formato en Web (github) + Dinámica + Reglas
 
 - Demos
 
@@ -185,15 +185,29 @@ Es el momento de conocernos un poco, porque este es un taller personalizado para
 
 ## ¿Qué vamos a necesitar (minimo)?
 
-*Herramientas SW* : <u>**IDE:**</u> Para programar **tanto en Python como en micropython** vamos usar **<u>Thonny</u>** que es un IDE: Entorno integrado de Desarrollo. Es gratis y solo necesitamos instalarlo en un PC o en un pendrive : lo contaremos en la clase 1.
+Resumen:
 
-*Herramientas HW*: **<u>Microcontrolador</u>**: ya hemso comentado que es como el cerebro de todos los proyectos de robotica, es también donde se conectan todos los sensores, displays, etc. El **año pasado decidimos usar el microcontrolador <u>Raspberry Pi Pico W</u>** 
+1. PC portátil / pendrive con un IDE cargado
+
+2. Microcontrolador Raspberry Pico 2 W o W
+
+3. Material electrónico vario como protoboard, cables, sensores etc.
+   
+    Se recomienda comprar en conjunto el microcontrolador y el material electrónico en un KIT 
+
+Detalle:
+
+*Herramientas SW* : <u>**IDE:**</u> Para programar **tanto en Python como en micropython** vamos usar **<u>Thonny</u>** que es un IDE: Entorno integrado de Desarrollo. Es gratis y solo necesitamos instalarlo en un **PC o en un pendrive** : lo contaremos en la clase 1.
+
+NOTA : **los alumnos de otros años anteriores, han optado por traer a clase un PC portátil** 
+
+*Herramientas HW*: **<u>Microcontrolador</u>**: ya hemoos comentado que es como el cerebro de todos los proyectos de robotica, es también donde se conectan todos los sensores, displays, etc. El **año pasado decidimos usar el microcontrolador <u>Raspberry Pi Pico W</u>** 
 
 Seguiremos con él el curso 2024 - 2025, pero **a los nuevos alumnos se les recomendara usar la versión nueva <u>Raspberry Pico 2W</u>**, porque el precio es aproximadamente el mismo, es mucho mas potente y ya no se encuentra la Pico 1 w.  Lo ideal es comprar un kit, pero se puede empezar solo con el microcontrolador + una Protoboard y algunas cosas (muy baratas) más. Comentaremos este tema en próximas clases. 
 
 Lo ideal es comprar un kit, pero se puede empezar solo con el microcontrolador + una Protoboard y algunas cosas (muy baratas) más.
 
-## Clases : Contenido y plan + Dinámica + Reglas
+## Clases : Contenido y plan + Formato en Web (github) + Dinámica + Reglas
 
 ### Contenido y Plan de clases
 
@@ -210,6 +224,27 @@ Lo ideal es comprar un kit, pero se puede empezar solo con el microcontrolador +
 4. El plan a partir de  la 2da o 3ra clases **se adaptara y acordará con los alumnos**, es decir el programa de clases se ira concretando y adaptando a los alumnos. Hay mucho material de años anteriores cubriendo un amplio abanico de complejidad, desde lo mas sencillo a lo mas complejo
 
 5. Habrá clases dedicadas completa o parcialmente a resolver dudas o ver montajes hechos en casa de los alumnos, ...
+
+### Formato en Web (github)
+
+Las clases se publicaran en web en un repositorio llamado **Github**, bajo la raíz
+
+[Jcspoza (Jose Carlos Santamaria Poza) · GitHub](https://github.com/Jcspoza)
+
+En cada mini-web habrá 3 tipos de archivos 
+
+* readme.md : es donde esta el desarrollo de la clase en un lenguaje llamado markdown. Es opcional bajarlo, porque siempre se puede leer en la web. Si lo bajáis hay muchos conversores y visores
+* xxxx.py : son archivos de programas tanto de python como de micropython **==> Esta es la única parte que es imprescindible copiar a vuestro PC o pendrive**
+* imágenes y esquemas o fichero gráficos  similares que estarán en una carpeta llamada 'doc' o similar
+* xx.pdf libros o similares si no se encuentran con facilidad. Estarán en un directorio 'por debajo' llamado 'doc'
+
+Para copiar los programas y algun otro material, hay 2 opciones
+
+* bajar la web entera en formato zip
+
+* baja cada fichero 1 a 1
+  
+  **==> Se explicará durante la clase inicial**
 
 ### Dinámica
 
