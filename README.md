@@ -290,7 +290,7 @@ Para copiar los programas y algun otro material, hay 2 opciones
 
 ### Demo de Programación con GUI (+pro) Tkinter: Calculadora
 
-Estoy preparando una clase con la GUI profesional "TkInter" , es de un tutorial y no es un programa complejo :_ una calculadora sencilla
+Estoy preparando una clase con la GUI profesional "TkInter" , asi que he tomado uno de los programas de aprendizaje que es de un tutoria. No es un programa complejo es una calculadora  sencilla
 
 [Calculadora simple Tkinter](./Pdemo_GUITK_calculator.py)
 
