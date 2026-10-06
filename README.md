@@ -284,15 +284,23 @@ Para copiar los programas y algun otro material, hay 2 opciones
 
 ### Demo de Robotica : Tira Led (x8) de colores controlada por display, pulsadores y botón rotativo
 
-He preparado sobre un montaje con el que acabamos el curso anterior de un 'display' mas 3 pulsadores y botón de rueda . he añadido una tira neopixel de ledes de colores controlables individualmente ( también vista el curso pasado)
+( curso 25 26) He preparado sobre un montaje con el que acabamos el curso 24_25 anterior de un 'display' mas 3 pulsadores y botón de rueda . he añadido una tira neopixel de ledes de colores controlables individualmente ( también vista el curso pasado)
 
 [Tira 8 led de colores y control con display](./Rdemo_neopx8_showMenu_2_0.py)
+
+### Demo de Programación con GUI (+pro) Tkinter: Calculadora
+
+Estoy preparando una clase con la GUI profesional "TkInter" , es de un tutorial y no es un programa complejo :_ una calculadora sencilla
+
+[Calculadora simple Tkinter](./Pdemo_GUITK_calculator.py)
+
+
 
 ### Demo de Programación : Juego 'Mata-puntos'
 
 Es del curso 2023 a 2024, incluye programación grafica ( sencilla) . es un juego que podría servir para evaluar las habilidades de manejo del ratón de ordenador : 
 
-    Se trata simplemente de clicar en los puntos rojos ( bastante grandes) que aparecen en pantalla, y que van aumentando su velocidad de aparición, hasta ver cuantos puedes 'matar'
+Se trata simplemente de clicar en los puntos rojos ( bastante grandes) que aparecen en pantalla, y que van aumentando su velocidad de aparición, hasta ver cuantos puedes 'matar'
 
 [Juego Mata puntos](./Pdemo_MataPuntos_GZch7_2_0.py)
 
