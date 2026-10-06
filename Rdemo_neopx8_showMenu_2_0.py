@@ -5,8 +5,8 @@
 # Ref librerias: https://github.com/robert-hh/SH1106
 # Fecha JCSP 2025 09 12
 # Licencia : CC BY-NC-SA 4.0
-# Progrma base para hacer otros con Display sh1106 + Rotary encoder + 3 switchs
-# Basado en 'R'
+# Programa base para hacer otros con Display sh1106 + Rotary encoder + 3 switchs
+
 
 from os import uname
 # Informative block - start
